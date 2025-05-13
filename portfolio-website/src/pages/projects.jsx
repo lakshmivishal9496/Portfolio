@@ -19,7 +19,7 @@ export default function Projects() {
                             title="Virtual Gardener"
                             description="An IoT-powered mobile application designed to help users monitor the health of their plants in real time. I designed the interface to visualize sensor data (temperature, humidity, soil moisture, and plant smell) using clean, accessible charts. The app also alerts users of plant diseases via smell detection (ammonia emission), offering actionable advice through intuitive UX. Built with Firebase backend, Jetpack Compose, and real-time weather API integration."
                             figmaLink="https://www.figma.com/design/3I1Clqzpi4LdUOSiRA6IU3/Virtual-Gardener--Copy-?node-id=0-1&p=f&t=kOc02szfc3XoOSo0-0"
-                            imageSrc="/assets/vg.JPG"
+                            imageSrc="/assets/virtualgardner.png"
 
 
 
@@ -29,7 +29,7 @@ export default function Projects() {
                             title="Sports Union Website"
                             description="A full-stack event management platform built for university students to register, manage, and participate in sports events. The site features dual roles (admin & student), real-time event listings, registration tracking, and booking history. I designed the responsive UI using Figma and implemented the frontend in React with a Node.js backend and MongoDB database. The goal was to simplify student interactions with events while offering admins intuitive tools for event scheduling and analytics."
                             figmaLink="https://www.figma.com/design/iAEBH2D7RQWcpzFFZfVuvT/HkIF?t=kOc02szfc3XoOSo0-0"
-                            imageSrc="/assets/sportunion.jpg"
+                            imageSrc="/assets/sportunion.png"
                             icon={<FaUniversity />}
                         />
 
