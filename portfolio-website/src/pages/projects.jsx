@@ -44,7 +44,7 @@ export default function Projects() {
                             title="Log Analysis Dashboard (Thesis)"
                             description="A multi-agent LLM-powered web dashboard designed to assist QA engineers in understanding system-level logs from access control devices. I designed a tool that summarizes logs using AI orchestration (AutoGen), including retriever, analyzer, summarizer, and validator agents. The dashboard visualizes event sequences, detects root causes, and reduces manual log review time. It supports Figma-based user flows, real-time JSON parsing, and integrates custom-trained AI models. This project combines UX strategy with technical research on interpretability and hallucination mitigation."
                             figmaLink="https://www.figma.com/design/N4lC2XzR0YTCr7pNfylcKF/Axis_Log_Analysis?node-id=15-16&t=LjA5I6JzPoNhnA0b-0"
-                            imageSrc="/assets/nb.jpg"
+                            imageSrc="/assets/thesis.png"
 
                             icon={<FaServer />}
                         />
