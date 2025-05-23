@@ -48,6 +48,14 @@ export default function Projects() {
 
                             icon={<FaServer />}
                         />
+                        <ProjectCard className="log"
+                            title="Axis Camera Station UX Case Study"
+                            description="A UX case study focused on improving the log analysis and system testing experience within the Axis Camera Station ecosystem. I collaborated with QA testers to identify pain points in understanding access control events and disconnection patterns. Through user research, I designed personas, site maps, and user flows tailored to system testers' real workflows. The case study emphasizes accessibility improvements (WCAG contrast checks), data visualization for log timelines, and context-aware AI-generated summaries using AutoGen agents. This project bridges design, AI, and user empathy in a security-critical product."
+                            figmaLink="https://miro.com/app/board/uXjVIGR5dps=/"
+                            imageSrc="/assets/thesis.png"
+                            icon={<FaServer />}
+                        />
+
 
                     </div>
                 </div>
